@@ -1,0 +1,49 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment and credentials
+.env
+.env.*
+*.pem
+
+# Databases and indexes
+*.db
+*.sqlite3
+*.faiss
+*.bin
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local tooling
+.cursor/
+.vscode/
+.idea/
+
+# Logs and reports
+*.log
+*.coverage
+.coverage*
+dist/
+build/
+
+# Streamlit/Gradio/Streamlit cache
+.streamlit/
+.gradio/
+
+# Optional: model/vector artifacts
+*/faiss_index/
+*/resume_*/

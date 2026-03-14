@@ -1,0 +1,31 @@
+from db.database import (
+    init_db,
+    get_connection,
+    create_user,
+    get_user_by_email,
+    update_last_login,
+    set_resume_uploaded,
+    get_all_users,
+    save_chat_message,
+    get_chat_count,
+    get_all_chats,
+    save_resume,
+    get_resume_count,
+    get_all_resumes,
+)
+
+__all__ = [
+    "init_db",
+    "get_connection",
+    "create_user",
+    "get_user_by_email",
+    "update_last_login",
+    "set_resume_uploaded",
+    "get_all_users",
+    "save_chat_message",
+    "get_chat_count",
+    "get_all_chats",
+    "save_resume",
+    "get_resume_count",
+    "get_all_resumes",
+]

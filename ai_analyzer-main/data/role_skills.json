@@ -1,0 +1,28 @@
+{
+ "AI Engineer": [
+  "Python",
+  "Machine Learning",
+  "Deep Learning",
+  "TensorFlow",
+  "PyTorch",
+  "RAG",
+  "Vector Databases",
+  "Docker",
+  "Kubernetes"
+ ],
+ "ML Engineer": [
+  "Python",
+  "Scikit-learn",
+  "Feature Engineering",
+  "Model Deployment",
+  "TensorFlow",
+  "PyTorch"
+ ],
+ "Backend Developer": [
+  "Python",
+  "FastAPI",
+  "PostgreSQL",
+  "Docker",
+  "REST APIs"
+ ]
+}
