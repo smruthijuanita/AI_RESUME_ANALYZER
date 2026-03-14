@@ -117,5 +117,5 @@ docker run -p 8501:8501 resume-rag-chatbot
 ```
 
 ## Admin Credentials:
-UserName: admin@gmail.com
+UserName: admin@gmail.com <br>
 Password: admin
